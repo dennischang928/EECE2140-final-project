@@ -5,9 +5,9 @@ Menu-driven Python app for registering students in courses.
 ## Part 1: Alyssa (Courses & Students)
 
 **Task 1: Display courses**
-- [ ] Course data: ID, name, credits, instructor, capacity, enrolled, meeting day/time, prereqs
-- [ ] Remaining seats = capacity - enrolled
-- [ ] Show courses as a table and mark the full ones
+- [x] Course data: ID, name, credits, instructor, capacity, enrolled, meeting day/time, prereqs
+- [x] Remaining seats = capacity - enrolled
+- [x] Show courses as a table and mark the full ones
 
 **Task 2: Students**
 - [ ] Student data: name, ID, year, completed courses, registered courses, total credits
